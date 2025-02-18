@@ -1,0 +1,23 @@
+{
+  "name": "com.charsui.texturepreviewer",
+  "version": "0.0.1",
+  "displayName": "CharSui\u2018s Texture Previewer",
+  "description": "To address the issue where Unity's default Inspector cannot zoom in to confirm the details of a compressed texture, you can use Texture Previewer to solve this problem. It supports modifying the background color, zoom level, mouse wheel zooming, refocusing, and reloading.",
+  "keywords": [
+    "charsui",
+    "texture",
+    "previewer"
+  ],
+  "author": {
+    "name": "CharSui",
+    "email": "charcharsui@gmail.com",
+    "url": "https://github.com/HikariXP"
+  },
+  "samples": [
+    {
+      "displayName": "Inspector Extension",
+      "description": "Provide an Inspector extension that allows you to quickly open Texture Previewer by clicking the preview button at the bottom of the texture's Inspector.",
+      "path": "Samples~/InspectorExtension"
+    }
+  ]
+}

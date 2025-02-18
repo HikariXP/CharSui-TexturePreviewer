@@ -1,0 +1,17 @@
+{
+    "name": "CharSui.TexturePreviewer.InspectorExtension",
+    "references": [
+        "GUID:00914efe18e83fb44a3ab690fd8e6edf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
