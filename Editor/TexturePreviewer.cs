@@ -34,10 +34,10 @@ namespace CharSui.TexturePreviewer
 		
 		#endregion
 
-		[MenuItem("Window/Texture Viewer")]
+		[MenuItem("Window/Texture Previewer")]
 		private static void Init()
 		{
-			GetWindow<TexturePreviewer>("Texture Viewer");
+			GetWindow<TexturePreviewer>("Texture Previewer");
 		}
 
 		/// <summary>
