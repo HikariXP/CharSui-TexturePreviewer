@@ -15,6 +15,10 @@ Both the mouse and the slider can be used.
 在Background的后面输入具体的值（1-255），点击Apply应用  
 Enter a specific value (1-255) after Background, then click Apply to confirm.
 # 怎么用？
+## Import this Tool
+你可以在PackageManager的左上角点击加号，选择gitUrl，填入`https://github.com/HikariXP/CharSui-TexturePreviewer.git`来导入。  
+You can click the plus sign in the top-left corner of the Package Manager, select gitUrl, and enter `https://github.com/HikariXP/CharSui-TexturePreviewer.git` to import it.  
+
 默认的窗口打开放在了`Window/Texture Previewer`  
 You can open the window form this EditorToolBarPath.
 ## 通过文件选择器加载 - FolderPanel
